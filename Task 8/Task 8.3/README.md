@@ -29,7 +29,7 @@ There is another README.md file included which explains how to run the model and
 
 **Notes:**
 
-* We didn't use a Jupyter Notebook using that method since we used Datature.
+* We didn't use a Jupyter Notebook in that process since we used Datature.
 * Steps to use the model are included, a simple command to be run on the terminal.
 * We couldn't create a deployment file like the one used in the video, but the other method works fine.
 * Dataset is included and here's a drive link: https://drive.google.com/drive/folders/18z9I2-IVjjMtUO_r4gi9qOhtunhgaKmb?usp=sharing
