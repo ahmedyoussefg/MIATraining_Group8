@@ -1,0 +1,3 @@
+python predict.py -i "C:\Users\Kio Store\Desktop\Training Result\Val" -m "C:\Users\Kio Store\Desktop\Training Result\datature-yolov8n.pt" -t 0.5
+
+python predict.py -i "Val" -m "datature-yolov8n.pt" -t 0.5

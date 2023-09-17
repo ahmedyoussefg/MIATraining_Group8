@@ -1,0 +1,15 @@
+item {
+  id: 1
+  name: "pound_quarter"
+}
+
+item {
+  id: 2
+  name: "pound_one"
+}
+
+item {
+  id: 3
+  name: "pound_half"
+}
+
