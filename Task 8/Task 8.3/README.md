@@ -22,3 +22,8 @@ Then Marwan proceeded to label the images, but Yousif found a much faster way to
 After training the model, we included the model and the deployment file, alongside the dataset and the test cases.
 
 There is another README.md file included which explains how to run the model and all details. (it also includes the website)
+
+**Notes:**
+
+* We didn't use a jupyter notebook using that method
+* Dataset is included and here's a drive link: https://drive.google.com/drive/folders/18z9I2-IVjjMtUO_r4gi9qOhtunhgaKmb?usp=sharing
