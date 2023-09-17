@@ -17,7 +17,7 @@ The dataset was collected by all team members:
 * Marawan El-Gharbawy
 * Yousif Mohamed Mostafa Salama Elraey
 
-Then Marwan proceeded to label the images, but Yousif found a much faster way to do so and found another website that could efficiently train the model with a much faster computation power, so we decided to keep going on this path since we were low on time.
+Then Marwan proceeded to label the images, but Yousif found a much faster way to do so and found a platform called Datature, which could efficiently train the model with a much faster computation power, so we decided to keep going on this path since we were low on time.
 
 After training the model, we included the model and the deployment file, alongside the dataset and the test cases.
 
