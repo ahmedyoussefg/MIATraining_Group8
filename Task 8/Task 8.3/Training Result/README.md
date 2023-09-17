@@ -17,13 +17,8 @@ Install the required packages using:
 The `predict.py` file can be run as follows:
 
 ```shell
-python3 predict.py \
-    -i input_folder_path \
-    -m model_path \
-    -t threshold 
+python predict.py -i "Val" -m "datature-yolov8n.pt" -t 0.5
 ```
-
-Look into "CMD Paths" Text
 
 **input_folder_path** refers to the path to the folder where the images for prediction are stored.
 
