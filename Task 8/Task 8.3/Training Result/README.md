@@ -14,6 +14,8 @@ Install the required packages using:
 
 ## Making Predictions
 
+First, the images to be tested should be included in the "Val" directory.
+
 The `predict.py` file can be run as follows:
 
 ```shell
