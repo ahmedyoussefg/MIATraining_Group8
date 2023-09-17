@@ -25,5 +25,5 @@ There is another README.md file included which explains how to run the model and
 
 **Notes:**
 
-* We didn't use a jupyter notebook using that method
+* We didn't use a jupyter notebook using that method.
 * Dataset is included and here's a drive link: https://drive.google.com/drive/folders/18z9I2-IVjjMtUO_r4gi9qOhtunhgaKmb?usp=sharing
