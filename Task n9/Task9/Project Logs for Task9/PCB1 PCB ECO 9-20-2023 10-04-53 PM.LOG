@@ -1,0 +1,69 @@
+Added Component: Designator=A?(ARDUINO_A000066)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/A000066/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "A000066"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/A000066/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/A000066/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=A?(ARDUINO_A000066)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/A000066/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "A000066"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/A000066/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/A000066/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=A?(ARDUINO_A000066)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/A000066/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "A000066"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/A000066/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/A000066/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=A?(ARDUINO_A000066)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/A000066/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "A000066"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/A000066/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/A000066/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D*1(DATA_PIN_HEADER_3_2.54m)
+Added Component: Designator=D*2(DATA_PIN_HEADER_3_2.54m)
+Added Component: Designator=D*3(DATA_PIN_HEADER_3_2.54m)
+Added Component: Designator=D*4(DATA_PIN_HEADER_3_2.54m)
+Added Pin To Net: NetName=BackSignal Pin=A?-D4
+Added Pin To Net: NetName=BackSignal Pin=D*2-3
+Added Net: Name=BackSignal
+Added Pin To Net: NetName=ForwardSignal Pin=A?-D8
+Added Pin To Net: NetName=ForwardSignal Pin=D*4-3
+Added Net: Name=ForwardSignal
+Added Pin To Net: NetName=GND Pin=A?-GND_1
+Added Pin To Net: NetName=GND Pin=D*1-1
+Added Pin To Net: NetName=GND Pin=D*2-1
+Added Pin To Net: NetName=GND Pin=D*3-1
+Added Pin To Net: NetName=GND Pin=D*4-1
+Added Net: Name=GND
+Added Pin To Net: NetName=LeftSignal Pin=A?-D7
+Added Pin To Net: NetName=LeftSignal Pin=D*3-3
+Added Net: Name=LeftSignal
+Added Pin To Net: NetName=RightSignal Pin=A?-D2
+Added Pin To Net: NetName=RightSignal Pin=D*1-3
+Added Net: Name=RightSignal
+Added Pin To Net: NetName=VCC Pin=A?-5V
+Added Pin To Net: NetName=VCC Pin=D*1-2
+Added Pin To Net: NetName=VCC Pin=D*2-2
+Added Pin To Net: NetName=VCC Pin=D*3-2
+Added Pin To Net: NetName=VCC Pin=D*4-2
+Added Net: Name=VCC
+Added Class: Name=Sheet1

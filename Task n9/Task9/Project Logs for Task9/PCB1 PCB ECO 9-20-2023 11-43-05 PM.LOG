@@ -1,0 +1,58 @@
+Added Component: Designator=*(MPU6050)
+Add Component: Footprint Not Found ARDUINO UNO
+Added Component: Designator=D*1(DATA_PIN_HEADER_3_2.54m)
+Added Component: Designator=D*2(DATA_PIN_HEADER_3_2.54m)
+Added Component: Designator=D*3(DATA_PIN_HEADER_3_2.54m)
+Added Component: Designator=D*4(DATA_PIN_HEADER_3_2.54m)
+Added Component: Designator=D*(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D*(DATA_PIN_HEADER_6_2.54m)
+Added Component: Designator=D*(DATA_PIN_HEADER_6_2.54m)
+Added Component: Designator=D*(DATA_PIN_HEADER_2_2.54m)
+Added Pin To Net: NetName=BackSignal Pin=D*2-3
+Added Net: Name=BackSignal
+Added Pin To Net: NetName=ENA Pin=D*-1
+Added Net: Name=ENA
+Added Pin To Net: NetName=ENB Pin=D*-6
+Added Net: Name=ENB
+Added Pin To Net: NetName=ForwardSignal Pin=D*4-3
+Added Net: Name=ForwardSignal
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=GND Pin=D*-2
+Added Pin To Net: NetName=GND Pin=D*1-1
+Added Pin To Net: NetName=GND Pin=D*2-1
+Added Pin To Net: NetName=GND Pin=D*3-1
+Added Pin To Net: NetName=GND Pin=D*4-1
+Added Net: Name=GND
+Added Pin To Net: NetName=IN1 Pin=D*-2
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=D*-3
+Added Net: Name=IN2
+Added Pin To Net: NetName=IN3 Pin=D*-4
+Added Net: Name=IN3
+Added Pin To Net: NetName=IN4 Pin=D*-5
+Added Net: Name=IN4
+Added Pin To Net: NetName=LeftSignal Pin=D*3-3
+Added Net: Name=LeftSignal
+Added Pin To Net: NetName=Net12V_1 Pin=D*-1
+Added Net: Name=Net12V_1
+Added Pin To Net: NetName=Net*_SCL Pin=*-SCL
+Added Net: Name=Net*_SCL
+Added Pin To Net: NetName=Net*_SDA Pin=*-SDA
+Added Net: Name=Net*_SDA
+Added Pin To Net: NetName=NetD*_1 Pin=D*-1
+Added Pin To Net: NetName=NetD*_1 Pin=D*-6
+Added Net: Name=NetD*_1
+Add Net: Net with name "NetD*_1" already exists
+Added Pin To Net: NetName=NetD*_2 Pin=D*-2
+Added Pin To Net: NetName=NetD*_2 Pin=D*-3
+Added Net: Name=NetD*_2
+Add Net: Net with name "NetD*_2" already exists
+Added Pin To Net: NetName=RightSignal Pin=D*1-3
+Added Net: Name=RightSignal
+Added Pin To Net: NetName=VCC Pin=*-VCC
+Added Pin To Net: NetName=VCC Pin=D*1-2
+Added Pin To Net: NetName=VCC Pin=D*2-2
+Added Pin To Net: NetName=VCC Pin=D*3-2
+Added Pin To Net: NetName=VCC Pin=D*4-2
+Added Net: Name=VCC
+Added Class: Name=Sheet1
